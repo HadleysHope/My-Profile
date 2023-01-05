@@ -13,3 +13,5 @@ I love computers. I have been fascinated all my life by them and have struggled 
 Gaming has been my lifelong passion, combined with my love of Warhammer. So I don't think I'll ever play another game again other than The Total War-Warhammer Series. 
 I also love Liverpool FC and the Dallas Cowboys.
 
+## Favorite Books
+I'm currently reading Game of Thrones Series and Nagash. Software Development side I am reading Github for Dummies to create this Website.
