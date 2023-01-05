@@ -1,3 +1,5 @@
+![headshot](calabim400x400.png)
+
 # My-Profile
 This is my first personal project on github, My first published website.
 
