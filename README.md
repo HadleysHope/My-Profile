@@ -15,3 +15,6 @@ I also love Liverpool FC and the Dallas Cowboys.
 
 ## Favorite Books
 I'm currently reading Game of Thrones Series and Nagash. Software Development side I am reading Github for Dummies to create this Website.
+
+markdown: kramdown
+theme: time-machine
