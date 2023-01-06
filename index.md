@@ -1,0 +1,15 @@
+# My Projects
+Here is a list of projects that I am working on:
+
+# My Interests
+I'm interested in sharing my journey with other noobs to show them the way.
+
+# My Blog
+I'm really excited to blog my journey on Github.com.
+
+# Get in Touch
+<ul>
+  <li><a href="https://twitter.com/{{ site.twitter_calabim@therealcalabim}}">Twitter</a></li>
+  <li><a href="https://github.com/{{ site.github_HadleysHope}}">Github</a></li>
+ </ul>
+ 
