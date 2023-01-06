@@ -1,7 +1,7 @@
 # My Projects
 Here is a list of projects that I am working on:
 <ul>
-  <li> a href="https:/HadleysHope.github.io/HelloWorld/">HelloWorld Project</a></li>
+  <li><a href="https:/HadleysHope.github.io/HelloWorld/">HelloWorld Project</a></li>
   
 </ul>
 
